@@ -6,7 +6,7 @@
 
     <groupId>ua.edu.ucu.apps</groupId>
     <artifactId>Lab5.1</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version> 
 
     <dependencies>
         <dependency>
